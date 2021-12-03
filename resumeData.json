@@ -1,31 +1,31 @@
 {
   "main": {
-    "name":"Thomas Tutchings",
-    "description":"Software Developer / Designer / Lifetime Student",
-    "image":"profilepic.jpg",
-    "bio":"My name is Thomas Tutchings and I am a recent IT Bachelor's degree graduate and current UNC Coding Bootcamp Student. Based in Raleigh, NC, I am a hard-working, detail-oriented Software Developer passionate about learning, researching, and writing code and I relish the opportunity to take my programming skills and experience to a company where I can continue to learn and grow as a professional software developer.",
+    "name":"Tommy Chen",
+    "description":"Software Developer, Student",
+    "image":"selfie.jpg",
+    "bio":"My name is Tommy Chen and I am a student at GSU. I have recently picked up coding with the intent to become proficient in both front and back end developement. My hobbies are kayaking, eating new foods, and playing league of legends.",
     "contactmessage":"Feel free to contact me via email, this form, or LinkedIn",
-    "email": "tutchings.dev@gmail.com",
-    "phone": "540-755-6656",
-    "github":"https://github.com/tutchings",
-    "project":"https://www.linkedin.com/in/thomas-tutchings-2340871b7/",
+    "email": "chen199932@gmail.com",
+    "phone": "678-670-7189",
+    "github":"https://github.com/chen199932",
+    "project":"https://www.linkedin.com/in/tommy-chen-9b1b9917b/",
     "address":{
       "street":"(Your Street)",
-      "city":"Raleigh",
-      "state":"NC",
+      "city":"Atlanta",
+      "state":"GA",
       "zip": "(Your Zip/Postal Code)"
     },
-    "website": "https://github.com/tutchings",
-    "resumedownload":"https://drive.google.com/file/d/1z-EfydB5ZVRvnLHXoPAg1dbRDvHO-gSV/view?usp=sharing",
+    "website": "https://github.com/chen199932",
+    "resumedownload":"https://www.linkedin.com/in/tommy-chen-9b1b9917b/",
     "social":[
       {
         "name":"github",
-        "url":"https://github.com/tutchings",
+        "url":"https://github.com/chen199932",
         "className":"fa fa-github"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/thomas-tutchings-2340871b7/",
+        "url":"https://www.linkedin.com/in/tommy-chen-9b1b9917b/",
         "className":"fa fa-linkedin"
       }
     ]
@@ -34,150 +34,147 @@
     "skillmessage":"* Each skill level is weighted in correlation to the remaining skills",
     "education":[
       {
-        "school":"University of North Carolina - Chapel Hill",
-        "gpa": "A+ Academic Average",
-        "degree":"Coding Bootcamp Certificate",
-        "graduated":"February 2021",
-        "description":"Coursework Included: HTML5, CSS3, JavaScript, jQuery, Bootstrap, Express.js, Handlebars, React.js, Node.js, Database Theory, MongoDB, MySQL, Git"
+        "school":"Walton High School",
+        "gpa": "B+ Academic Average",
+        "degree":"Graduate",
+        "graduated":"May 2017",
+        "description":"Coursework Included: General"
       },
       {
-        "school":"University of Massachusetts Lowell",
-        "gpa": "3.977 GPA",
-        "degree":"Bachelor's of Science in Information Technology (minor in business)",
-        "graduated":"August 2019",
-        "description":"Coursework Included: Front-End Web Development (HTML, CSS, JavaScript), Back-End Web Development (Perl, Python, PHP), C-Programming, Database Management Systems (SQL, ERDplus, Teradata), Adobe Creative Suite, Microsoft Office Applications, Business Minor (Management, Finance, Accounting, Marketing, Economics)"
+        "school":"Georgia Institute of Technology",
+        "gpa": "TBD",
+        "degree":"Coding Bootcamp)",
+        "graduated":"December 2021",
+        "description":"Coursework Included: HTML5, CSS3, JavaScript, jQuery, Bootstrap, Express.js, Handlebars, React.js, Node.js, Database Theory, MongoDB, MySQL, Git)"
       }
     ],
     "work":[
       {
-        "company":"Dean Dorton",
-        "title":"Software Services Specialist (Software Developer)",
-        "years":"November 2020 - Present",
-        "description":"Write scrips to build custom accounting dashboards for clients (javasript) and build software integrations between accounting application platforms (python)"
+        "company":"Apron&Ladle",
+        "title":"Server",
+        "years":"6 months ",
+        "description":"Serving"
       },
       {
-        "company":"365 Sports",
-        "title":"Accounting / Sports Marketing Data Analyst",
-        "years":"December 2019 - May 2020 (Laid-off as a result of Covid-19)",
-        "description":"Invoicing clients, building and sending receipts, scheduling/mailing payment plans and reminders, marketing tasks (mass mailings, mass text messaging, design/editing), and researching high school sports statistics, data, and school information."
+        "company":"Asian Express",
+        "title":"Manager",
+        "years":"2 years",
+        "description":"Managing, administering, and Regulating Business and Traffic. "
       }
     ],
     "skills":[
       {
         "name":"HTML / CSS / Bootstrap",
-        "level":"90%"
+        "level":"80%"
       },
       {
         "name":"ReactJS",
-        "level":"35%"
-      },
-      {
-        "name":"MongoDB / Mongoose",
-        "level":"45%"
-      },
-      {
-        "name":"Terminal / Git",
-        "level":"80%"
-      },
-      {
-        "name":"NodeJS / ExpressJS",
-        "level":"80%"
-      },
-      {
-        "name":"MySQL / Sequelize",
-        "level":"55%"
-      },
-      {
-        "name":"JavaScript / jQuery",
-        "level":"90%"
-      },
-      {
-        "name":"REST APIs",
-        "level":"75%"
-      },
-      {
-        "name":"C-Programming",
         "level":"30%"
       },
       {
-        "name":"Amazon Web Services / Serverless",
-        "level":"25%"
+        "name":"MongoDB / Mongoose",
+        "level":"40%"
+      },
+      {
+        "name":"Terminal / Git",
+        "level":"85%"
+      },
+      {
+        "name":"NodeJS / ExpressJS",
+        "level":"75%"
+      },
+      {
+        "name":"MySQL / Sequelize",
+        "level":"50%"
+      },
+      {
+        "name":"JavaScript / jQuery",
+        "level":"85%"
+      },
+      {
+        "name":"REST APIs",
+        "level":"65%"
+      },
+      {
+        "name":"C-Programming",
+        "level":"20%"
       }
+      
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Disney Platformer",
-        "shorttitle": "Disney Platformer",
-        "category":"Personal Project",
-        "image":"disneyPlatformer.PNG",
-        "info":"HTML, CSS, JS, Bootstrap, Adobe Photoshop",
-        "url":"https://tutchings.github.io/disneyPlatformer/",
-        "repo":"https://github.com/tutchings/disneyPlatformer"
-      },
-      {
-        "title":"Wake Forest University ASGM Project",
-        "shorttitle": "WFU ASGM Project",
-        "category":"Academic (group) Project",
-        "image":"wfu-asgm-project.PNG",
-        "info":"Amazon Web Services (AWS), Serverless, Express, Vuejs, Nodejs, Axios, MongoDB, Mongoose, HTML, CSS, JS, jQuery",
-        "url":"https://asgmwfu.com/index.html",
-        "repo":"https://github.com/tutchings/wfu-asgm-awsServerlessLambda"
-      },
-      {
-        "title":"Exploring National Parks During Covid: Live Search",
-        "shorttitle": "NPS Covid: Live Search",
-        "category":"Academic (group) Project",
-        "image":"nps.png",
-        "info":"HTML, CSS, JS, jQuery, Materialize, GoogleMaps and Geocoding APIs, NPS API, Covid Tracking Project API, Bing News API, MapQuest API",
-        "url":"https://tutchings.github.io/exploringParksDuringCovidLiveSearch/",
-        "repo":"https://github.com/tutchings/exploringParksDuringCovidLiveSearch"
-      },
-      {
-        "title":"React User Directory",
-        "shorttitle": "React User Directory",
+        "title":"Password Generator",
+        "shorttitle": "Password Generator",
         "category":"Academic Project",
-        "image":"userDirectoryImg1.PNG",
-        "info":"React, Nodejs, Axios, Random User API, HTML, CSS, JS, Bootstrap",
-        "url":"https://tutchings.github.io/19-user-directory/",
-        "repo":"https://github.com/tutchings/19-user-directory"
+        "image":"PasswordGenerator.PNG",
+        "info":"HTML, CSS, JS,",
+        "url":"https://chen199932.github.io/03-JavaScript-Password-Generator/",
+        "repo":"https://github.com/chen199932/03-JavaScript-Password-Generator"
       },
       {
-        "title":"Budget Tracker PWA",
+        "title":"Workout Tracker",
+        "shorttitle": "Workout Tracker",
+        "category":"Academic Project",
+        "image":"WorkoutTracker.PNG",
+        "info":" Express, Nodejs, MongoDB, Mongoose, HTML, CSS, JS, jQuery",
+        "url":"https://rocky-escarpment-77972.herokuapp.com/?id=61a73573f0066c00164ec2c9",
+        "repo":"https://github.com/chen199932/Unit-18-Nosql-Homework-Workout-Tracker"
+      },
+      {
+        "title":"Note Taker",
+        "shorttitle": "Note Taker",
+        "category":"Academic Project",
+        "image":"NoteTaker.PNG",
+        "info":"HTML, CSS, JS, Express.js, Heroku",
+        "url":"https://thawing-lowlands-49939.herokuapp.com/notes.html",
+        "repo":"https://github.com/chen199932/Unit-11--Express.js"
+      },
+      {
+        "title":"Day Planner",
+        "shorttitle": "Day Planner",
+        "category":"Academic Project",
+        "image":"DayPlanner.PNG",
+        "info":"HTML, CSS, JS, Bootstrap",
+        "url":"https://chen199932.github.io/05-Third-Party-APIs-Work-Day-Scheduler/",
+        "repo":"https://github.com/chen199932/05-Third-Party-APIs-Work-Day-Scheduler"
+      },
+      {
+        "title":"Budget Tracker ",
         "shorttitle": "Budget Tracker",
         "category":"Academic Project",
-        "image":"budgetTracker1.PNG",
+        "image":"BudgetTracker.PNG",
         "info":"MongoDB, Mongoose, webpack, service-worker, Express, Nodejs",
-        "url":"https://budget-tracker-18-pwa.herokuapp.com",
-        "repo":"https://github.com/tutchings/18_BudgetTrackerPWA"
+        "url":"https://desolate-tundra-23310.herokuapp.com/",
+        "repo":"https://github.com/chen199932/Unit-19-PWA-Homework-Online-Offline-Budget-Trackers"
       },
       {
-        "title":"Burger Tracker",
-        "shorttitle": "Burger Tracker",
+        "title":"Team Profile Generator",
+        "shorttitle": "Team Profile Generator",
         "category":"Academic Project",
-        "image":"burgerTracker.PNG",
-        "info":"MySql, Express, Nodejs, Handlebars, HTML, CSS, JS, Bootstrap, jQuery",
-        "url":"https://mysql-mvc-burger-shop.herokuapp.com/",
-        "repo":"https://github.com/tutchings/13_burgerTracker"
+        "image":"TeamProfileGenerator.PNG",
+        "info":"MySql, Nodejs, HTML, CSS, JS, Bootstrap, jQuery",
+        "url":"https://drive.google.com/file/d/1YLZOjX2iAMpGZAO-MM6QVoRaLkvaZm-D/view",
+        "repo":"https://github.com/chen199932/10-Object-Oriented-Programming-Team-Profile-Generator"
       },
       {
         "title":"Weather Dashboard",
         "shorttitle": "Weather Dashboard",
         "category":"Academic Project",
-        "image":"weatherDashboard.png",
+        "image":"WeatherDashboard.png",
         "info":"HTML, CSS, Bootstrap, JS, jQuery, OpenWeather API, MapQuest API",
-        "url":"https://tutchings.github.io/6_weatherDashboard/",
-        "repo":"https://github.com/tutchings/6_weatherDashboard"
+        "url":"https://chen199932.github.io/06-Server-Side-APIs-Weather-Dashboard/",
+        "repo":"https://github.com/chen199932/06-Server-Side-APIs-Weather-Dashboard"
       },
       {
-        "title":"BlackJack Game",
-        "shorttitle": "BlackJack",
-        "category":"Personal Project",
-        "image":"blackjack.PNG",
+        "title":"Code Quiz",
+        "shorttitle": "Code Quiz",
+        "category":"Academic Project",
+        "image":"CodeQuiz.PNG",
         "info":"HTML, CSS, JS",
-        "url":"https://tutchings.github.io/blackjack/",
-        "repo":"https://github.com/tutchings/blackjack"
+        "url":"https://chen199932.github.io/04-Web-APIs-Code-Quiz/",
+        "repo":"https://github.com/chen199932/04-Web-APIs-Code-Quiz"
       }
     ]
   }
