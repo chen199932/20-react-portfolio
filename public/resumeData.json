@@ -1,0 +1,181 @@
+{
+  "main": {
+    "name":"Tommy Chen",
+    "description":"Software Developer, Student",
+    "image":"selfie.jpg",
+    "bio":"My name is Tommy Chen and I am a student at GSU. I have recently picked up coding with the intent to become proficient in both front and back end developement. My hobbies are kayaking, eating new foods, and playing league of legends.",
+    "contactmessage":"Feel free to contact me via email, this form, or LinkedIn",
+    "email": "chen199932@gmail.com",
+    "phone": "678-670-7189",
+    "github":"https://github.com/chen199932",
+    "project":"https://www.linkedin.com/in/tommy-chen-9b1b9917b/",
+    "address":{
+      "street":"(Your Street)",
+      "city":"Atlanta",
+      "state":"GA",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "https://github.com/chen199932",
+    "resumedownload":"https://www.linkedin.com/in/tommy-chen-9b1b9917b/",
+    "social":[
+      {
+        "name":"github",
+        "url":"https://github.com/chen199932",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tommy-chen-9b1b9917b/",
+        "className":"fa fa-linkedin"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"* Each skill level is weighted in correlation to the remaining skills",
+    "education":[
+      {
+        "school":"Walton High School",
+        "gpa": "B+ Academic Average",
+        "degree":"Graduate",
+        "graduated":"May 2017",
+        "description":"Coursework Included: General"
+      },
+      {
+        "school":"Georgia Institute of Technology",
+        "gpa": "TBD",
+        "degree":"Coding Bootcamp)",
+        "graduated":"December 2021",
+        "description":"Coursework Included: HTML5, CSS3, JavaScript, jQuery, Bootstrap, Express.js, Handlebars, React.js, Node.js, Database Theory, MongoDB, MySQL, Git)"
+      }
+    ],
+    "work":[
+      {
+        "company":"Apron&Ladle",
+        "title":"Server",
+        "years":"6 months ",
+        "description":"Serving"
+      },
+      {
+        "company":"Asian Express",
+        "title":"Manager",
+        "years":"2 years",
+        "description":"Managing, administering, and Regulating Business and Traffic. "
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML / CSS / Bootstrap",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"30%"
+      },
+      {
+        "name":"MongoDB / Mongoose",
+        "level":"40%"
+      },
+      {
+        "name":"Terminal / Git",
+        "level":"85%"
+      },
+      {
+        "name":"NodeJS / ExpressJS",
+        "level":"75%"
+      },
+      {
+        "name":"MySQL / Sequelize",
+        "level":"50%"
+      },
+      {
+        "name":"JavaScript / jQuery",
+        "level":"85%"
+      },
+      {
+        "name":"REST APIs",
+        "level":"65%"
+      },
+      {
+        "name":"C-Programming",
+        "level":"20%"
+      }
+      
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Password Generator",
+        "shorttitle": "Password Generator",
+        "category":"Academic Project",
+        "image":"PasswordGenerator.PNG",
+        "info":"HTML, CSS, JS,",
+        "url":"https://chen199932.github.io/03-JavaScript-Password-Generator/",
+        "repo":"https://github.com/chen199932/03-JavaScript-Password-Generator"
+      },
+      {
+        "title":"Workout Tracker",
+        "shorttitle": "Workout Tracker",
+        "category":"Academic Project",
+        "image":"WorkoutTracker.PNG",
+        "info":" Express, Nodejs, MongoDB, Mongoose, HTML, CSS, JS, jQuery",
+        "url":"https://rocky-escarpment-77972.herokuapp.com/?id=61a73573f0066c00164ec2c9",
+        "repo":"https://github.com/chen199932/Unit-18-Nosql-Homework-Workout-Tracker"
+      },
+      {
+        "title":"Note Taker",
+        "shorttitle": "Note Taker",
+        "category":"Academic Project",
+        "image":"NoteTaker.PNG",
+        "info":"HTML, CSS, JS, Express.js, Heroku",
+        "url":"https://thawing-lowlands-49939.herokuapp.com/notes.html",
+        "repo":"https://github.com/chen199932/Unit-11--Express.js"
+      },
+      {
+        "title":"Day Planner",
+        "shorttitle": "Day Planner",
+        "category":"Academic Project",
+        "image":"DayPlanner.PNG",
+        "info":"HTML, CSS, JS, Bootstrap",
+        "url":"https://chen199932.github.io/05-Third-Party-APIs-Work-Day-Scheduler/",
+        "repo":"https://github.com/chen199932/05-Third-Party-APIs-Work-Day-Scheduler"
+      },
+      {
+        "title":"Budget Tracker ",
+        "shorttitle": "Budget Tracker",
+        "category":"Academic Project",
+        "image":"BudgetTracker.PNG",
+        "info":"MongoDB, Mongoose, webpack, service-worker, Express, Nodejs",
+        "url":"https://desolate-tundra-23310.herokuapp.com/",
+        "repo":"https://github.com/chen199932/Unit-19-PWA-Homework-Online-Offline-Budget-Trackers"
+      },
+      {
+        "title":"Team Profile Generator",
+        "shorttitle": "Team Profile Generator",
+        "category":"Academic Project",
+        "image":"TeamProfileGenerator.PNG",
+        "info":"MySql, Nodejs, HTML, CSS, JS, Bootstrap, jQuery",
+        "url":"https://drive.google.com/file/d/1YLZOjX2iAMpGZAO-MM6QVoRaLkvaZm-D/view",
+        "repo":"https://github.com/chen199932/10-Object-Oriented-Programming-Team-Profile-Generator"
+      },
+      {
+        "title":"Weather Dashboard",
+        "shorttitle": "Weather Dashboard",
+        "category":"Academic Project",
+        "image":"WeatherDashboard.png",
+        "info":"HTML, CSS, Bootstrap, JS, jQuery, OpenWeather API, MapQuest API",
+        "url":"https://chen199932.github.io/06-Server-Side-APIs-Weather-Dashboard/",
+        "repo":"https://github.com/chen199932/06-Server-Side-APIs-Weather-Dashboard"
+      },
+      {
+        "title":"Code Quiz",
+        "shorttitle": "Code Quiz",
+        "category":"Academic Project",
+        "image":"CodeQuiz.PNG",
+        "info":"HTML, CSS, JS",
+        "url":"https://chen199932.github.io/04-Web-APIs-Code-Quiz/",
+        "repo":"https://github.com/chen199932/04-Web-APIs-Code-Quiz"
+      }
+    ]
+  }
+}
